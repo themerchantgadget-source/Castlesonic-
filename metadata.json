@@ -1,0 +1,6 @@
+{
+  "name": "MP3Paw Music Discovery & Player",
+  "description": "Discover, stream, and preview high-bitrate music tracks with MP3Paw embedded in-app player modal, rich metadata, and audio controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
